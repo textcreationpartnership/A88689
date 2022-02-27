@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations relating to the East-India trade. Upon occasion of some papers lately set forth against the company</title>
+            <author>Langhorne, William, Sir, 1629-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88689</idno>
+            <idno type="STC">Wing L402C</idno>
+            <idno type="STC">ESTC R230690</idno>
+            <idno type="EEBO-CITATION">99899642</idno>
+            <idno type="PROQUEST">99899642</idno>
+            <idno type="VID">154244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2407:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations relating to the East-India trade. Upon occasion of some papers lately set forth against the company</title>
+                  <author>Langhorne, William, Sir, 1629-1715.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Langhorn.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154244:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>Some Conſiderations Relating to the <hi>Eaſt-India</hi> Trade.</head>
+            <head type="sub">
+               <g ref="char:V">Ʋ</g>pon occaſion of ſome Papers lately ſet forth againſt the Company.</head>
+            <p>THoſe Worthy Perſons who firſt attended to the Management of the Preſent <hi>East-India</hi> Joynt-Stock, were excellently Temper'd for the recovery of a Trade, ſo ſadly diſor<g ref="char:EOLhyphen"/>der'd by the preceding Interlopers, in the extravagant Enhanſing of the Commodities of thoſe Countreys, and beating down of Ours There; which could never have been reduced, but by ſuch moderate Beginnings, and Continuance of ſome Years. Which when once Effected, and all things well ſetled, It was no leſs ſeaſonable, for the indefatigable Appli<g ref="char:EOLhyphen"/>cation of that Eminent Perſon, (ſo unjuſtly aſperſed) with the Concurrence of the reſt, to dilate the Trade; wherein that Progreſs was made, and thoſe new foundations laid and traced out, as particularly along the Coaſts of <hi>Mallabar,</hi> in the Queen of <hi>Attingas</hi> Country, and in the <hi>Ging<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> Country on <hi>Choromandell</hi> ſide, and of <hi>Sumatra,</hi> and the more Eaſtern Seas, as would have exceeded Expectation.</p>
+            <p>When ſuch a Crew of New Interlopers broke in again, as put all into confuſion. And not ſo content, made in their Buſineſs to Decry, to Clamour, and to Inſtigate all Mankind againſt them; as well in the <hi>Mogul</hi>'s Dominions, as here. To which alone that Expenſive War with ſo great a Prince, (though not un-preſidented by the <hi>Portugueſe, Hollanders</hi> and other <hi>Europeans</hi>) and all the Vexations here at home, particularly that ſudden Calling in of Moneys, do owe their Original; But which by the Goodneſs of God, have all hitherto been waded through, with ſo much Honour and Juſtice, as nothing but Ill Will and Mischievous Deſigns, can deny them this Praiſe.</p>
+            <p>The Style of the <hi>Mogul</hi>'s <hi>Phirmaunds,</hi> will affect none, who have obſerved that of the Eaſtern Princes to all their Neighbours. As for Inſtance, that of the <hi>Turks,</hi> to the Emperour of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> to the <hi>Poles, Venetians, Perſians,</hi> &amp;c. And ſo of the <hi>Saracens</hi> and <hi>Tartars,</hi> from whom He derives. Mean while the Company is not only Tolerated, but Courted to Return, and Settle again in all his Provinces.</p>
+            <p>The admiſſion of <hi>Armenians</hi> (being no more than our Neighbours would be glad to afford them) is but a Temporary Allowance, whereby to gain ſome inſpection into the <hi>
+                  <g ref="char:V">Ʋ</g>p-Land</hi> and Northern parts; and thereby New Markets for our Woollen Manufactures, which have never yet penetrated ſo far up, and is above all things ſought after by the Company. And in Truth, thoſe <hi>Armenians</hi> are the only Merchants on the face of the Earth, that can greatly encreaſe the Vent of <hi>Engliſh</hi> Cloth, and would wonderfully Augment it, if they might carry Our Cloth to <hi>Turkie,</hi> paying that Companies Duties, as they may, <hi>Dutch</hi> Cloth, without paying any Duties, but what the Natives pay themſelves.</p>
+            <p>The proportioning the Number of Votes, by the quantity of Stock, is no more than is war<g ref="char:EOLhyphen"/>ranted by the Royal Charters, carrying with it The approbation of Kings, Privy Council and Sages of the Law, The General Uſage of all the Joynt-Stocks in <hi>England,</hi> Of all Part-Owners of Shipping in <hi>Europe,</hi> And thoſe famous Sea-Laws of <hi>Olleron</hi> and <hi>Barcellona</hi> ſo univerſally received. Without which, in a Joint-ſtock, The Proprietors of ſmall Stocks, might buy and ſell the Whole: An inconſiderable Bribe or Advantage, out-weighing their Trivial, and perhaps deſigning Shares in the Joynt Concern. But this is ſeldom uſed, in ought but in Elections for the Court of Aſſi<g ref="char:EOLhyphen"/>ſtants; (In which Court the whole management of the Stock being tranſacted, no Member hath any more than a ſingle Vote.) And yet of great neceſſity to be exerted, in caſe of Combinations of the Cyphers againſt the Figures. It being much leſs probable, that the greater Stocks ſhould miſuſe this Priviledge, than the ſmaller.</p>
+            <p>Our Prudent Neighbours, as Popular as the Conſtitution of their State is, have yet thought good, and found it ſo, to ſettle that of their Company wholly Ariſtocratick, and Perpetual: and (for fear of Oſtraciſms, good only to Exile the Beſt, the Ableſt, and the moſt Experienced;) have eſtabliſhed their Court of Aſſiſtants (or ſeventeen <hi>Bewinthebbers</hi>) for Life, and ſtill to be ſup<g ref="char:EOLhyphen"/>plyed by the Votes, not of the Multitude, but the Survivors.</p>
+            <p>
+               <pb n="2" facs="tcp:154244:2"/>
+               <!-- PDF PAGE 6 -->
+But this objection ſeems to ariſe from ſuch, whoſe practices have run the Company upon the neceſſity of Private Contracts, (Which are no other than Sales, by allowance of the General Court, committed to the management of the Court of Aſſiſtants, and by them made to who bids moſt.) The ſame thing as by the Candle, only ſometimes thought fitter, when the q<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tity is great, and Combinations apprehended. Or elſe from ſuch, who for other ends, would have us criple our ſelves, from the power of a Remedy, which no Merchants nor Companies in the World, were ever yet debarred of, nor can be without; Trade will be free, or will go where it may be ſo. It may allow of a Limitation to the aſſent of the General Court, but no Excluſion.</p>
+            <p>Nor is it neceſſary for Joynt Stocks to be ſtrained like <hi>Procruſtes</hi>'s Gueſts to the Model of Ele<g ref="char:EOLhyphen"/>ctions for <hi>Parliament.</hi> Which, were that to be new framed, who knows what Modifications it might admit of? But yet will all good Patriotts, ought to beheld, as Venerable and Sacred for its Noble Antiquity, as Bleſſed, for its happy Influences on this Nation.</p>
+            <p>As for the Iſland of <hi>Polleroon,</hi> no Fortifications upon ſo ſmall, ſo Remote an Iſland, ſo ſcituated within the ſtrength of our Undiſturbed Neighbours, could ever be rendered <hi>Im<g ref="char:EOLhyphen"/>pregnable.</hi> Nor was it for ſo Changeable and Precarious an Eſtabliſhment as this Companies is now repreſented, to be very laviſh in that way of Expence; as theſe pretended Under-Va<g ref="char:EOLhyphen"/>luations, of thoſe which they have elſewere found needful to Undertake, do but too much confirm.</p>
+            <p>And although the Suggeſtions, as if the maintaining an Ambaſſador at the <hi>Mogulls</hi> Court, would excuſe all the great expence of Fortifications, may ſeem plauſible at firſt hearing, un<g ref="char:EOLhyphen"/>till we take into conſideration, the Inſtability of that Government, Frequent Convulſions a<g ref="char:EOLhyphen"/>bout the ſucceſſions, Rebellions, Wars and Diſturbances, to which that Unfiniſht Con<g ref="char:EOLhyphen"/>queſt, is ever obnoxious, (Where ſo many of the Ancient <hi>Raja's</hi> do ſtill retain a Tributary Poſſeſſion, in the many <hi>faſtneſſes</hi> of thoſe Woods and Mountains;) And then the Neceſſity of Forts and Caſtles will ſpeak for it ſelf. Not forgetting the late attempt of the <hi>French,</hi> in the Road of Fort St. <hi>George.</hi>
+            </p>
+            <p>And here I muſt needs admire their monſtrous Zeal for their Countreys honour, at the charge of their Countrey men; Who rather than their Project of Subſcriptions, ſhoul<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be received in <hi>India</hi> with all imaginable applauſe, would have their needleſs Ambaſſador, go ſtuff<g ref="char:EOLhyphen"/>ed with the Reſtitutions from the Company in Specie, which (they cannot but have learnt) have been allready made at Surrat in ready Money, with the very Fraights to the <hi>Junks</hi> out of which the Goods were taken, to the content and admiration of all Parties concerned; As if they would have the ſaid Companies Stock laid out in Carpets, for this new One to make a Solemn Entry upon.</p>
+            <p>That the Company are in a capacity to revive and carry on their Trade, is now Actually in practice. But whiles they make ſuch a noiſe, the imaginary Neceſſity, of ſo vaſt an Increaſe of the Stock, for the full carrying on of the <hi>Indian</hi> Trade, it were fit, to conſider ſoberly, how great a Limb of the Conſumption of thoſe Commodities here, is lopt off by the <hi>French</hi> Prohibition; beſides other obſtuctions as ſuch a Juncture at this, and it will then appear, how ſafe a Precedent, the Prudence of the firſt Conductors of the preſent Joynt-Stock have laid before us.</p>
+            <p>It was no Fault of the Companies, that they have not been allowed a Parliamentary Con<g ref="char:EOLhyphen"/>firmation, whilſt it was neither fit nor ſafe, may I not ſay Criminal, for them to queſtion a<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Authority, in their Caſe, which the Parliament themſelves would never yet undertake. Nay have on ſeveral occaſions, if not directly approved, Let paſs. But it had been a National, and Irreparable Misfortune had they Sat ſtill, and waited for it until now.</p>
+            <p>The Companies Enemies are at length brought to agree, that a Joynt-Stock is the only good way to manage and improve the Trade for <hi>India.</hi>
+            </p>
+            <p>Mean while, what Loads of Jnjuries and unſpeakable dammages, have the Interlopers and their Adherents heaped upon the Company, and by Conſequence upon the Nation, under this Exploded Pretence of <hi>Liberty,</hi> to undo both the one and the other, as far as in them lyes; Beſides theſe unſeaſonable diſturbances to the High Court of Parliment, which Battery being thus blown up, they do but change their Colours, and under the freſh notion of a new Stock, begin again. But what pity, were it, that ſuch reſtleſs Intruders ſhould be ſuffered thus to proceed, from one Cavillation to another, to diſcredit, and moleſt ſo well deſerving a Society! Rather may our Honourable Repreſentatives make reflexion, how miſchiveous they muſt needs have been in <hi>India,</hi> from their carriage here.</p>
+            <p>
+               <pb n="3" facs="tcp:154244:2"/>
+               <!-- PDF PAGE 6 -->
+So they aſperſe the Company on the one hand, for making a <hi>Piratical War in India,</hi> to recruit their Stock, by rich Prizes from thoſe Merchants. And on the other hand, for not condemning them when brought in, Though (as appeared) out of an honourable intention to preſerve them intire, in order to a fair Reſtitution; when the great <hi>Mogul,</hi> being better ſatisfyed of the Miſ<g ref="char:EOLhyphen"/>demeanours of his great Governours (who were thereupon diſplaced, and ſucceeded by others, better diſpoſed towards the Company) ſhould condeſcend to an amicable Compoſure. Much more might be enlarged here to the Reputation of the Company, had they not juſt grounds to apprehend ill Offices abroad, by the Inſtruments of theſe our homebred Enemies; whereof we have had but too many Inſtances, in the inflaming of the Quarrel. It is good Manners, to let Great Princes ſpeak their own Style, whiles they do us Right.</p>
+            <p>That Infamous Term of <hi>Conſpirators,</hi> and <hi>Tricks,</hi> is moſt liberally beſtowed upon the Com<g ref="char:EOLhyphen"/>pany, for their Worthy Endeavours, to aſſert the Right of a ſtock, intruſted to their Manage<g ref="char:EOLhyphen"/>ment. But after ſo many years combining, to ruine it, both abroad and at home, and the courſes taken to inveigle others into their Intereſts, by cajolling them into Subſcriptions for a <hi>new Stock,</hi> upon hopes, if not aſſurance, of twenty <hi>per Cent.</hi> profit thereon (without one peny disburſement) as ſoon as ever they ſhall have obtained an Act of Parliament for their purpoſe: One would think this ſhould much better ſuit with their own Intreagues, Conſpiracies being generally ingaged in, to ruin the Innocent, and not the preſerve a Right in Poſſeſſion. But in this manner, with unequall'd Confidence, do they lay their own Miſchiefs at the Companies door. Imputing the Wars with the <hi>Mogul</hi> and <hi>Siam,</hi> with all the multiplyed conſequences to the Trade, the Stock, the Ship<g ref="char:EOLhyphen"/>ping, Mens Lives, the Cuſtoms, the Nation, and even the calling in of Moneys, unto the Com<g ref="char:EOLhyphen"/>panies Piratical deſigns. Whiles all theſe have been the meer effects of their own unworthy Practices.</p>
+            <p>As if a Company of Men ſhould come to the Supream Magiſtrates, and tell them. <q>There lies a ſpacious Plain upon the Confines of three Potent States; of a conſequence well known to all. Our Induſtrious Countreymen have ſeveral times, and not unſucceſsfully, put in for our Nations ſhare; but for want of Countenance from above, have been as often diſturbed, by men of like unruly Principles with our ſelves. At length, ſome Publick Spirited Perſons, with ſuch Authority as the Reigning Powers would afford them, (and this from the time of Good Queen <hi>Elizabeth</hi>'s firſt Charter, never diſallowed of before,) took heart, and rather than indure ſo irreparable a loſs to the Nation, Undertaking the Work, had at length recovered this Deſolate Plantation into a poſture ſo inviting, That We not longer able to refrain, reſolvedly broke in (at the Windows, though the Doors were open) and throwing down all the Fences, with all the Miſchief and Combinations we could deviſe and pack againſt them, both abroad and at home: We have reduced it into a Condition, which will require both Time and Charge to reſtore it. And now, how reaſonable ſoever it were, to ſtrengthen and comfort the Undertakers, and their Suc<g ref="char:EOLhyphen"/>ceſſors, who having ſo vigorouſly Weathered all theſe ſtorms, and laid out in Building Caſtles, Towns, Factories, and Buying Lands, Territories Priviledges and Revenues, which coſt them at ſundry times above 1000000 l. might promiſe to themſelves from this High Court, that tender Conſideration at leaſt, which our Laws do allow even to a Tenant at Will, (who having Tilled his Ground, and Sowed his Grain, may not be turned out before he has got in his Crop.) Eſpecially, when the main Encouragement upon which they did engage their Fortunes, was, that they ſhould have three years continuance after warning. We do preſent theſe our Clamorous Requeſts to the Supream Magiſtrates, that laying aſide all regard for the injured Parties, the Widows, Orphans, and all that number of Intereſſed, unconcerned in any of our Suggeſtions, they will de pleaſed to Legallize all the Wrongs that we have done them, and (for Encouragement to ſuch as our ſelves,) give up this coſtly Plantation to our Diſcretion, that we may take all that they have, at all manner of Diſadvantages, to them; In ſhort, <hi>We may kill the Heir and the Inheritance ſhall be ours:</hi>
+               </q>
+            </p>
+            <closer>
+               <signed>William Langhorn.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
